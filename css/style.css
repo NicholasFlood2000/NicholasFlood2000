@@ -2,7 +2,7 @@
 /* This is your css file */
 
 body {
-  color: #5EFF57;
+  color: #08B500;
 	font-size: 24px;
 	background: url("../img/CodeBackground.jpg");
   background-repeat: no-repeat;
@@ -50,7 +50,7 @@ h1, h2, h3 {
 	font-size: 20px;
 }
 #navigation a {
-  color: #5EFF57;
+  color: #08B500;
   margin-right: 10px;
 }
 .project-details {
@@ -66,4 +66,8 @@ h1, h2, h3 {
 }
 .clear {
   clear: both;
+}
+hr {
+  background: #08B500;
+  border-color: #08B500;
 }
