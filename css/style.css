@@ -2,8 +2,9 @@
 /* This is your css file */
 
 body {
+  color: #5EFF57;
 	font-size: 24px;
-	background: #222;
+	background: #555;
 	font-family: 'Roboto' , sans-serif;
   }
 h1, h2, h3 {
@@ -18,7 +19,7 @@ h1, h2, h3 {
 	display: block;
 	margin: 0 auto;
 	padding: 10px;
-	background: #fff
+	background: #000
   }
   li {
 	display: inline;
@@ -35,7 +36,7 @@ h1, h2, h3 {
   .avatar {
 	max-width: 200px;
 	float: left;
-	border: 3px solid #555;
+	border: 3px solid #5EFF57;
   }
   
   footer {
@@ -46,6 +47,7 @@ h1, h2, h3 {
 	font-size: 20px;
 }
 #navigation a {
+  color: #5EFF57;
   margin-right: 10px;
 }
 .project-details {
