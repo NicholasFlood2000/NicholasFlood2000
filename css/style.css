@@ -4,7 +4,10 @@
 body {
   color: #5EFF57;
 	font-size: 24px;
-	background: #555;
+	background: url("../img/CodeBackground.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-color: #031100;
 	font-family: 'Roboto' , sans-serif;
   }
 h1, h2, h3 {
@@ -34,8 +37,6 @@ h1, h2, h3 {
 	padding-left: 5px;
   }
   .avatar {
-  margin-right: 10px;
-  background: #fff;
 	max-width: 200px;
 	float: left;
 	border: 3px solid #5EFF57;
