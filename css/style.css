@@ -1,0 +1,64 @@
+/* style.css */
+/* This is your css file */
+
+body {
+	font-size: 24px;
+	background: #222;
+	font-family: 'Roboto' , sans-serif;
+  }
+h1, h2, h3 {
+  font-family: "VT323", monospace;
+}
+  p { 
+	font-family: 'Roboto' , sans-serif;
+	font-size: 16px;
+  }
+  .container, nav, footer {
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+	padding: 10px;
+	background: #fff
+  }
+  li {
+	display: inline;
+	margin-right: 5px;
+  }
+  
+  #logo {
+		font-size: 24px;
+  }
+  
+  ul {
+	padding-left: 5px;
+  }
+  .avatar {
+	max-width: 200px;
+	float: left;
+	border: 3px solid #555;
+  }
+  
+  footer {
+	text-align: center;
+  }
+#navigation {
+ font-family: "VT323", monospace;
+	font-size: 20px;
+}
+#navigation a {
+  margin-right: 10px;
+}
+.project-details {
+  font-size: 16px;
+  float: right;
+  display: inline;
+}
+
+.project-img {
+  float: left;
+  display: inline;
+  margin-right: 10px;
+}
+.clear {
+  clear: both;
+}
