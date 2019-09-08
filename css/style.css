@@ -72,3 +72,11 @@ hr {
   background: #08B500;
   border-color: #08B500;
 }
+#cpu, #you {
+  font-family: "VT323", monospace;
+  font-size: 23px
+}
+#result {
+  font-family: "VT323", monospace;
+  font-size: 30px  
+}
